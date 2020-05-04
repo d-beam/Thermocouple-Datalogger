@@ -15,7 +15,7 @@ Setup Mode
 3. Toggle the measuring interval by short button presses<br/>
 4. Select the desired measuring interval by by a long button press<br/>
 
-Measuring Mode
+Measuring Mode<br/>
 4. Toggle the channel readings by short button presses<br/>
 5. Switch data logging to SD card on and off by a long button press<br/>
 
