@@ -6,19 +6,18 @@ Tamera, 30.07.2019</p>
 
 The datalog interval can be set between 2 seconds up to an hour and datalogging can be switched on and off.
 
-
 User Manual
 -----------
 
 Setup Mode
-1. Make sure an appropriate sized and formatted SD card is inserted
-2. Supply Power by plugging in the AC/DC power supply
-3. Toggle the measuring interval by short button presses
-4. Select the desired measuring interval by by a long button press
+1. Make sure an appropriate sized and formatted SD card is inserted<br/>
+2. Supply Power by plugging in the AC/DC power supply<br/>
+3. Toggle the measuring interval by short button presses<br/>
+4. Select the desired measuring interval by by a long button press<br/>
 
 Measuring Mode
-4. Toggle the channel readings by short button presses
-5. Switch data logging to SD card on and off by a long button press
+4. Toggle the channel readings by short button presses<br/>
+5. Switch data logging to SD card on and off by a long button press<br/>
 
 Attention: Always switch data logging and power off, before taking out the SD card!
 
